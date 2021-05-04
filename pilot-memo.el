@@ -1,4 +1,4 @@
-;;; pilot-memo.el - write the current buffer out to a PalmOS device as a memo.
+;;; pilot-memo.el --- write the current buffer out to a PalmOS device as a memo
 ;;
 ;; Copyright (C) 1999 Andrew J Cosgriff
 ;; http://polydistortion.net/sw/emacs-lisp/
